@@ -1,0 +1,12 @@
+{
+  "domain": "thesan_vmc",
+  "name": "Thesan VMC",
+  "codeowners": [
+    "@igorsko"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/igorsko/ha_thesan_vmc",
+  "iot_class": "local_polling",
+  "requirements": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configura Thesan VMC",
+        "description": "Inserisci l'indirizzo IP del tuo VMC Thesan",
+        "data": {
+          "host": "Indirizzo IP",
+          "name": "Nome"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Impossibile connettersi al dispositivo. Verifica l'indirizzo IP.",
+      "unknown": "Errore sconosciuto"
+    },
+    "abort": {
+      "already_configured": "Dispositivo già configurato"
+    }
+  }
+}
