@@ -2,7 +2,7 @@
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
 [![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg?style=for-the-badge)](https://www.buymeacoffee.com/igorsko)
-[![PayPal](https://img.shields.io/badge/PayPal-donate-blue.svg?style=for-the-badge)](https://www.paypal.me/igorsko)
+[![PayPal](https://img.shields.io/badge/PayPal-donate-blue.svg?style=for-the-badge)](https://www.paypal.me/igorskorjanc)
 
 This is a custom component for Home Assistant to integrate with Thesan VMC (Controlled Mechanical Ventilation) devices.
 
@@ -24,6 +24,6 @@ During the configuration flow, you will be prompted to enter the **Host** IP add
 If you find this integration useful and want to support its development, please consider:
 -  Starring the repository on GitHub.
 -  [Buying me a coffee](https://www.buymeacoffee.com/igorsko).
--  [Donating via PayPal](https://www.paypal.me/igorsko).
+-  [Donating via PayPal](https://www.paypal.me/igorskorjanc).
 
 Your support helps me keep maintaining this and other Home Assistant integrations!
